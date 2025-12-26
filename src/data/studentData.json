@@ -1,0 +1,29 @@
+{
+    "studentName": "HarshPreet Sodhi",
+    "studentId": "STU-2024-001",
+    "testDate": "26-12-2025",
+    "overallScore": 8.1,
+    "skills": [
+      {
+        "name": "Pronunciation",
+        "score": 5.9,
+        "description": "Pronunciation is understandable but requires better consistency"
+      },
+      {
+        "name": "Fluency",
+        "score": 7.9,
+        "description": "Good fluency with minor hesitation in complex responses"
+      },
+      {
+        "name": "Vocabulary",
+        "score": 9.0,
+        "description": "Excellent range of vocabulary with accurate contextual usage"
+      },
+      {
+        "name": "Grammar",
+        "score": 8.9,
+        "description": "Strong grammatical control with very rare errors"
+      }
+    ]
+  }
+  
