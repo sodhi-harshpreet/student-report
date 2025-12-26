@@ -48,4 +48,3 @@ Feedback and colors update automatically as scores change.
 
 ---
 
-**Note:** This is a front-end prototype for demo/assignments. No login, payments, backend, or AI included.
